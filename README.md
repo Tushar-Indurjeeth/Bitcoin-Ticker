@@ -1,5 +1,5 @@
 # Bitcoin Ticker
-A simple website that displays the value of Bitcoin in different currencies.
+A simple website that displays the value of Bitcoin in different fiat currencies.
 Built using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Styled Components](https://styled-components.com/).
 
 ## Live demo
