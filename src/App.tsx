@@ -1,7 +1,7 @@
 import { useQuery } from "react-query";
 import { Wrapper } from "./styles/App.styles";
 
-import { LinearProgress, Select, MenuItem } from "@material-ui/core";
+import { LinearProgress, Select } from "@material-ui/core";
 import { useEffect, useState } from "react";
 import { formatNumber } from "fast-number-formatter";
 
