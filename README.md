@@ -2,9 +2,6 @@
 A simple website that displays the value of Bitcoin in different fiat currencies.
 Built using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Styled Components](https://styled-components.com/).
 
-## Live demo
-[https://bitcoin-ticker09.herokuapp.com/](https://bitcoin-ticker09.herokuapp.com/)
-
 ## How it works
 - The data is pulled from the [Exchange Rates API](https://www.blockchain.com/api/exchange_rates_api)
 - You can use select a currency available to view the value of Bitcoin in that currency.
